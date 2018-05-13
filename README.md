@@ -3,11 +3,13 @@
 How to build a Serverless application (RESTful microservice) using AWS services such as AWS Lambda, API Gateway, Dynamodb.
 
 Pre-requisites
+
 	Need to have a registered AWS account.
 	Node.js basics (https://www.w3schools.com/nodejs/default.asp
 	IDE or Text editor (Node.js application coding)
 	
 Activities
+
 	1. Getting started with AWS Lambda.
 	2. Setup Node.js environment.
 	3. Install Serverless toolkit.
