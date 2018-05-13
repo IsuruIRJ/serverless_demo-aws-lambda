@@ -1,0 +1,8 @@
+{
+	"name": "serverless-demo",
+	"version": "1.0.0",
+	"dependencies": {
+		"aws-sdk": "^2.236.1",
+		"uuid": "^3.2.1"
+	}
+}
